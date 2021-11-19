@@ -1,18 +1,16 @@
 <template>
-  <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-  <!-- <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/> -->
-  <Layout />
+  <!-- <img alt="Vue logo" src="./assets/logo.png">
+  <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/> -->
+  <router-view />
 </template>
 
-<script lang="ts">
+<!-- <script lang="ts">
 import { Options, Vue } from 'vue-class-component'
-import Layout from './components/Layout.vue'
-// import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/HelloWorld.vue'
 
 @Options({
   components: {
-    // HelloWorld,
-    Layout
+    HelloWorld
   },
 })
 export default class App extends Vue {}
@@ -27,4 +25,4 @@ export default class App extends Vue {}
   color: #2c3e50;
   margin-top: 60px;
 }
-</style>
+</style> -->

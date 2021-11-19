@@ -16,7 +16,7 @@
     </a-layout-header>
     <a-layout-content style="height: 100%;padding: 0 50px">
       <a-breadcrumb style="margin: 16px 0">
-        <a-breadcrumb-item>Home</a-breadcrumb-item>
+        <a-breadcrumb-item>Shop</a-breadcrumb-item>
         <!-- <a-breadcrumb-item>List</a-breadcrumb-item>
         <a-breadcrumb-item>App</a-breadcrumb-item> -->
       </a-breadcrumb>
